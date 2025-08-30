@@ -64,7 +64,3 @@ datos de ejemplo.
 
 ------------------------------------------------------------------------
 
-### Autor
-
-**Sonaly Vania Sifuentes Carranza**\
-Tecsup - 2025
