@@ -1,0 +1,17 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar package-lock.json o yarn.lock si no quieres subir dependencias
+package-lock.json
+yarn.lock
+
+# Ignorar package.json si de verdad no quieres subirlo
+package.json
